@@ -1,1 +1,2 @@
-# Interactive HR Analytics Dashboard developed using Power BI to analyze employee attrition, workforce demographics, and job satisfaction.
+# HR-Analytics-Dashboard
+Interactive HR Analytics Dashboard developed using Power BI to analyze employee attrition, workforce demographics, and job satisfaction.
